@@ -1,0 +1,11 @@
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\bin\Debug\SeleniumParallelTest.dll
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\bin\Debug\SeleniumParallelTest.pdb
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\bin\Debug\nunit.framework.dll
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\bin\Debug\WebDriver.dll
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\bin\Debug\nunit.framework.xml
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\bin\Debug\WebDriver.xml
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\obj\Debug\SeleniumParallelTest.dll
+C:\Users\dmitriy.kotelnikov\documents\visual studio 2015\Projects\SeleniumParallelTest\SeleniumParallelTest\obj\Debug\SeleniumParallelTest.pdb
